@@ -60,3 +60,7 @@ body{
     /*Essa propriedade irá remover o contorno do campo, quando estiver em foco.*/
     outline: none;
 }
+
+.books-list{
+    display: none;
+}
